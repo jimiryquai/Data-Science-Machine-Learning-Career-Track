@@ -3,3 +3,10 @@
 # 	I'm a programmer now.
 # 	Yeehaw!
 # 	Coding here I come!
+
+print("""
+      I'm a programmer now.
+      Yeehaw!
+      Coding here I come!
+      """)
+
